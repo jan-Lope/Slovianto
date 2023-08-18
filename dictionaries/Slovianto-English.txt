@@ -1,0 +1,208 @@
+a  ::  and, but
+ako  ::  if
+ale  ::  but
+avto  ::  car
+bez  ::  without
+běly  ::  white
+bliz  ::  almost
+bolje  ::  more
+brati  ::  to take
+byti  ::  to be
+čaj  ::  tea
+čas  ::  time
+časina  ::  hour
+čest  ::  part
+člověk  ::  person, human being
+črěz  ::  through
+črny  ::  black
+čto  ::  what
+da  ::  yes
+dati  ::  to give
+daže  ::  even
+denj  ::  day
+dělati  ::  to do, to make
+dělo  ::  act, deed
+děte  ::  child
+dlja  ::  for
+do  ::  to, towards, till
+dobro  ::  well
+dobry  ::  good
+dom  ::  house
+dostati  ::  to get, to receive
+drugy  ::  second
+država  ::  state
+dva  ::  two
+dveri  ::  door
+glas  ::  voice
+glava  ::  head
+gleděti  ::  to watch
+god  ::  year
+govoriti  ::  to say, to speak
+grad  ::  city, town
+groši  ::  money
+hladny  ::  cold
+hlěb  ::  bread
+htěti  ::  to want
+hvala  ::  thanks
+i  ::  and
+idti  ::  to go, to walk
+ih  ::  them; their
+ili  ::  or
+imati  ::  to have
+iz  ::  from, out of
+ja  ::  I
+jedin  ::  one
+jedino  ::  only
+jego  ::  him; his
+jej  ::  her
+jesti  ::  to eat
+ješče  ::  still
+k  ::  to, towards
+kaky  ::  what kind of
+kako  ::  how; like
+kava  ::  coffee
+kde  ::  where
+kniga  ::  book
+kogda  ::  when
+konec  ::  end
+kto  ::  who
+ktory  ::  which
+lice  ::  face
+ljubiti  ::  to love, to like
+maly  ::  little, small
+maslo  ::  butter
+medžu  ::  between
+menje  ::  less
+meso  ::  meat
+město  ::  place
+minuta  ::  minute
+mlěko  ::  milk
+mnogo  ::  much; very
+mogti  ::  can, to be able
+moj  ::  my
+može  ::  maybe, perhaps
+možno  ::  it is possible; possibly
+muž  ::  man, husband
+my  ::  we
+mysliti  ::  to think
+na  ::  on, upon, at
+nad  ::  above, beyond
+najbolje  ::  most
+naš  ::  our
+ne  ::  no; not
+nesti  ::  to carry
+neželi  ::  than
+něčto  ::  something
+někaky  ::  some kind of
+několiko  ::  a few, several
+ni … ni …  ::  neither ... nor ...
+ničto  ::  nothing
+nikto  ::  nobody
+noč  ::  night
+noga  ::  leg
+novy  ::  new
+o, ob  ::  about
+obči  ::  common, general
+očevidno  ::  of course
+od  ::  of, from
+odgovoriti  ::  to answer
+oko  ::  eye
+on  ::  he
+ona  ::  she
+oni  ::  they
+ostati  ::  to stay, to remain
+otec  ::  father
+otvoriti  ::  open
+piti  ::  to drink
+pivo  ::  beer
+po  ::  after; in the manner of
+početi  ::  to begin, to start
+pod  ::  under
+pogled  ::  look, sight, view
+pokoj  ::  peace, quiet
+poslědny  ::  last
+potom  ::  after that, then
+potrěbny  ::  needed, necessary
+prěd  ::  before
+pri  ::  by, near
+prijatelj  ::  friend
+prijdti  ::  to come
+prinesti  ::  to bring
+problem  ::  problem
+prosim  ::  please
+prositi  ::  to ask (for sth.), to require
+prosty  ::  simple, easy
+prvy  ::  first
+pytanje  ::  question
+pytati  ::  to ask (a question)
+rabota  ::  work, labour
+rabotati  ::  to work, to labour
+raz  ::  time (in the sense of: ... times)
+razuměti  ::  to understand
+restoran  ::  restaurant
+ruka  ::  arm
+ryba  ::  fish
+s  ::  with
+směsta  ::  immediately
+snova  ::  again
+sam  ::  alone
+samo  ::  only, merely
+se, sebe  ::  oneself
+seděti  ::  to sit
+sejčas  ::  now
+sila  ::  power, force
+slovo  ::  word
+slučaj  ::  case, instance, event
+sok  ::  juice
+sovsěm  ::  entirely, completely
+spati  ::  to sleep
+stary  ::  old
+stati  ::  to become
+stati se  ::  to happen
+stojati  ::  to stand
+stol  ::  table
+strana  ::  side
+svět  ::  world
+svoj  ::  one's own
+taky  ::  such
+tako  ::  so, in such way
+takože  ::  also, too
+tamo  ::  there
+teply  ::  warm
+to  ::  this, that
+togda  ::  then
+toj  ::  this, that
+toliko  ::  this much, that much, only
+trěba  ::  it is needed, it is necesary
+tri  ::  three
+tu  ::  here
+tvoj  ::  your (sg.)
+ty  ::  you (sg.)
+uho  ::  ear
+uže  ::  already
+v  ::  in; into
+vaš  ::  your (pl.)
+veliky  ::  great, big
+ves  ::  all, entire
+vid  ::  aspect, look, vision
+viděti  ::  to see
+vino  ::  wine
+voda  ::  water
+vojna  ::  war
+vrěme  ::  time
+vsaky  ::  every
+vse  ::  everything
+vsegda  ::  always
+vy  ::  you (pl.)
+vyjdti  ::  exit, quit
+vysoky  ::  high
+za  ::  behind
+začto  ::  why, what for
+zato  ::  that's why, therefore
+zemja  ::  earth, ground
+zly  ::  bad
+značiti  ::  to mean
+znati  ::  to know
+že  ::  that (conjunction)
+žena  ::  woman, wife
+žiti  ::  to live
