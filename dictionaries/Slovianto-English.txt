@@ -206,3 +206,92 @@ znati  ::  to know
 že  ::  that (conjunction)
 žena  ::  woman, wife
 žiti  ::  to live
+
+Ja jest muž. :: I am a man.
+Ja jest žena.  :: I am a woman.
+Ja jest hlapec. :: I am a boy.
+Ja jest deva. :: I am a girl. 
+Ti jest student.  :: You are a student.
+Ti jest interesni.  :: You are interesting.
+Ti jest dosadni človek.  :: You are a boring person.
+On jest interesni človek. :: He is an interesting person.
+On jest važni muž. :: He is an important man.
+On jest umni. :: He is smart.
+Ona ne jest interesni. :: She is not interesting.
+Ona jest dobri človek. :: She is a good person. 
+Ona jest loši student.  :: She is a bad student.
+Ono ne jest črveni. :: It is not red.
+Ono jest modri. :: It is blue.
+Ono jest žolti. :: It is yellow.
+Mi jest muži. :: We are men.
+Mi jest ženi. :: We are women.
+Mi jest hlapeci. :: We are boys. 
+Mi jest devi. :: We are girls.
+Vi ne jest važni človeki. :: You are not important people.
+Vi jest interesni ženi. :: You are interesting women.
+Vi jest mladi muži. :: You are young men.
+Oni ne jest mladi. :: They are not young.
+Oni jest stari človeki. :: They are old people.
+Oni jest umni ženi. :: They are smart women.
+
+Ja imet kompjuter. :: I have a computer.
+Ja ne pit voda. :: I am not drinking water.
+Ja čitat kniga. :: I am reading a book.
+Ti pit mleko. :: You drink milk.
+Ti ne razumet nemečski. :: You do not understand German.
+Ti čitat gazeta. :: You are reading the newspaper.
+On jedat jabloko. :: He eats an apple.
+On ne jest amerikanski. :: He is not American.
+On imet kot. :: He has a cat.
+Ona govorit anglijski. :: She speaks English.
+Ona ne videt ptica. :: She does not see a bird.
+Ona imet pes. :: She has a dog.
+Ono jest dobri. :: It is good.
+Ono ne jest avto. :: It is not a car.
+Mi ne razumet. :: We do not understand.
+Vi ljubit piti čaj. :: You all like to drink tea.
+Oni slišat dete. :: They hear a child.
+
+zdrav :: hello
+dobri utro :: good morning
+dobri den :: good afternoon
+dobri večer :: good evening
+dobri noč :: good night
+dobrodošli :: welcome
+do videnja :: goodbye
+izvinite :: excuse me, sorry
+da :: yes
+ne :: no
+hvala :: thanks
+prosim :: please
+
+Supa jest goreči. :: The soup is hot.
+Mrazina jest hladni. :: The ice cream is cold.
+
+Koni jest veliki. :: The horses are big.
+Miši jest mali. :: The mice are small.
+Moj prijatel imet riba. :: My friend has a fish.
+
+Oni videt mene. :: They see me.
+
+moj :: my
+Moj brat ne jest glupi osoba. :: My brother is not a stupid person.
+tvoj :: your
+Tvoj muž imet problem s alkohol. :: Your husband has a problem with alcohol.
+jego :: his
+Jego žena ne razumet situacija. :: His wife does not understand the situation.
+jej :: her
+naš :: our
+vaš :: y'all's
+ih :: their
+svoj :: ... own
+
+kto? :: who?
+čto? :: what?
+kogda? :: when?
+gde? :: where?
+za čto? :: why?
+kako? :: how?
+
+On čital kniga. :: He read a book.
+Oni čitali knigi. :: They read books.
